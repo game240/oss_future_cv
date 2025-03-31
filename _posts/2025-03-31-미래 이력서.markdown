@@ -1,0 +1,64 @@
+---
+layout: post
+title: "미래 이력서"
+date: 2025-03-31 14:21:59 +0900
+categories: common
+---
+
+# 미래 이력서
+
+## 프로필
+
+> #### 안녕하세요, 활발한 커뮤니케이셔너 개발자 최준혁입니다.
+>
+> Computer Vision 분야 직무를 희망하고 있습니다.  
+> 협업 시 활발한 커뮤니케이션을 중시하며, 활발한 의견 교류를 좋아합니다.
+
+- 이름: `최준혁`
+- 이메일 주소: `cjh64866@naver.com`
+- Social:
+  - [GitHub](https://github.com/game240)
+  - [Blog1(Velog)](https://velog.io/@game240/posts)
+  - [Blog2(Naver)](https://blog.naver.com/cjh64866)
+
+## 이력
+
+- ### 프로젝트 이력
+
+  - `포도상점`: 2024.06. - 2025.12.
+    - Frontend Developer(React)
+    - AI-Based Steganography Developer(CNN, CV, Cryptography)
+  - `KWS`: 2024.12. - 2025.06.  
+     Frontend Developer(React)
+  - `강아지모드`: 2025.04. - 2025.09.  
+     Frontend Developer(React Native)
+  - `We-Suki`: 2025.07. - 2025.09.
+    - Backend Developer(FastAPI)
+    - Data Scientist(Crawling, Preprocessing)
+  - `다람이 - 우리집 청결 지킴이`: 2029.02. - 2029.09.
+    - Autonomous Driving Developer(CV)
+    - Frontend Developer(React)
+
+- ### 경력
+
+  - `포도상점`: 2025.04. - 2025.12.  
+     Product 부서 개발 2팀장
+  - `NVIDIA`: 2028.03. - 2028.12.  
+    System Engineer Intern, Autonomous Vehicles
+
+- ### 학력
+  `광운대학교 정보융합학부`: 2023.03. - 2029.02.
+
+## 수상
+
+- `2024 광운해커톤(KWthon)`: 2024.11.  
+   광운대학교 인공지능융합대학 발행, 최우수상 (2위)
+- `2027 Computer Vision Conference(U.G.)`: 2027.10.  
+   NVIDIA 발행, Top Prize (1위)
+
+## 자격증
+
+- `정보관리기술사`
+- `정보처리기사`
+- `ADP`, `ADsP`
+- `SQLP`, `SQLD`
